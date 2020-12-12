@@ -8,4 +8,3 @@ This sample shows basic class definition and instantiation.
 
 tsc --sourcemap greeter.ts
 start greeter.html
-# Typescript
